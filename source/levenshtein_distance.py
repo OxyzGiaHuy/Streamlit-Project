@@ -28,7 +28,7 @@ def load_vocab(file_path):
     return words
 
 
-vocabs = load_vocab(file_path='./vocab.txt')
+vocabs = load_vocab(file_path='./data/vocab.txt')
 
 
 def main():
